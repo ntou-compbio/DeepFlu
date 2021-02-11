@@ -1,5 +1,5 @@
 # DeepFlu
-Forecasting Influenza Susceptibility based on pre-exposure gene expression
+Forecasting Influenza Susceptibility based on pre-exposure gene expression using Deep Neural Network
 # Layout:
 + One input layer(kernel initializer: uniform, activation: relu)  
 + Four hidden layers with 100 nodes each(kernel initializer: uniform, activation: relu)  
